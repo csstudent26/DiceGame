@@ -9,7 +9,7 @@ class DiceGame:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("Blackjack Game")
+        self.root.title("Dice Game")
 
 
         self.size = 0
